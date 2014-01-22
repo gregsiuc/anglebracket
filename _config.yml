@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://anglebracketsolutions.com
+title: Angle Bracket Solutions
+subtitle: Making Web Technology Personal
+author: Greg Schloemann
 simple_search: http://google.com/search
 description:
 

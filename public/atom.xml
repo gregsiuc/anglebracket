@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-01-21T22:45:28-06:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Angle Bracket Solutions]]></title>
+  <link href="http://anglebracketsolutions.com/atom.xml" rel="self"/>
+  <link href="http://anglebracketsolutions.com/"/>
+  <updated>2014-01-21T23:27:05-06:00</updated>
+  <id>http://anglebracketsolutions.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Greg Schloemann]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
